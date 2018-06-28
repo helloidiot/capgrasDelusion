@@ -1,1 +1,2 @@
 # capgrasDelusion
+a computer mirror
