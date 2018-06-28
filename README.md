@@ -1,5 +1,5 @@
 # capgrasDelusion
-a computer mirror
+a kinect computer mirror
 
 ![alt text](1.png "grab 1")
 ![alt text](2.png "grab 2")
