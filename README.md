@@ -1,6 +1,6 @@
 # capgrasDelusion
 a computer mirror
 
-![alt text](Screen Shot 2018-04-23 at 13.35.08.png "Description goes here")
-![alt text](Screen Shot 2018-04-23 at 13.35.28.png "Description goes here")
-![alt text](Screen Shot 2018-04-23 at 13.36.13.png "Description goes here")
+![alt text](1.png "grab 1")
+![alt text](2.png "grab 2")
+![alt text](3.png "grab 3")
