@@ -1,5 +1,5 @@
 # capgrasDelusion
-a kinect computer mirror
+a grotesque computer mirror
 
 ![alt text](1.png "grab 1")
 ![alt text](2.png "grab 2")
