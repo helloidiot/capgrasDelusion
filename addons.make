@@ -1,0 +1,10 @@
+ofxAssimpModelLoader
+ofxCameraSaveLoad
+ofxCv
+ofxDelaunay
+ofxFaceTracker
+ofxGrabCam
+ofxGui
+ofxKinect
+ofxOpenCv
+ofxPostProcessing
